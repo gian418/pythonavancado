@@ -45,4 +45,4 @@ elif fc == 2:
     p = str(input('Digite o nome a ser buscado: '))
     pesquisar(p)
 else:
-    print('...')
+    print('.......')
